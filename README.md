@@ -1,3 +1,3 @@
 # python
 Paython
-qwrqwrqwrqwrqwr
+안길웅의 파이썬 
