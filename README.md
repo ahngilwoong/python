@@ -1,3 +1,3 @@
 # python
-Paython
-안길웅의 파이썬 
+Python
+JAVA와 파이썬 문법 다른점 찾기
